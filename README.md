@@ -1,6 +1,6 @@
 # Basics-of-java
 /**
- *    author: Rahemeen Mirza
+author: Rahemeen Mirza
 **/
 
 #include <bits/stdc++.h> // header file includes in every Standard library
