@@ -1,16 +1,1 @@
-# Basics-of-java
-/**
-author: Rahemeen Mirza
-**/
 
-#include <stdio.h> // header file includes in every Standard library
-using namespace std;
-
-int main() {
-
-	int n;
-	cin>>n;
-
-	cout<<n*n;
-	return 0;
-}
